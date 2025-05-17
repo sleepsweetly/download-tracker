@@ -150,7 +150,6 @@ class GitHubReleaseTracker(ctk.CTk):
         - Detailed release information
         - Download statistics
         - Visual analytics
-        - Dark/Light mode
         
         Created with yaslicadi (sleepsweetly) using Python and CustomTkinter
         """
