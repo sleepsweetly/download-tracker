@@ -11,7 +11,7 @@ To use this project, you need to set the `owner` and `repo` variables to your ow
 
 
 owner = "your-github-username"
-repo = "your-repository-name"
+    repo = "your-repository-name"
 
 Make sure to configure these parameters correctly, otherwise the tool won’t work as expected.
 
