@@ -1,5 +1,5 @@
 
-# GitHub Download
+# GitHub Download tracker
 
 
 GitHubReleaseTracker is a tool for tracking the release information of a specific GitHub repository.
